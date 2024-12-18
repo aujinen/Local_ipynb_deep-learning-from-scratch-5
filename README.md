@@ -1,6 +1,10 @@
 ゼロから作る Deep Learning ❺
 =============================
 
+新潟大学大学院医歯学総合研究科　顎顔面放射線学分野
+大学院演習用として、コードを追加しつつオフライン（ローカル）での jupyter notebook 形式で実行可能な版に改訂します。
+テキスト内の（ある意味、分かりやすくするために工夫されたであろう）比喩的表現（例えば、p.37の「パラメータ推定は『学習』とも呼ばれます」）について、必要に応じて適切な解説を組み入れていきます。
+
 [<img src="https://raw.githubusercontent.com/oreilly-japan/deep-learning-from-scratch-5/images/cover.png" width="200px">](https://www.amazon.co.jp/dp/4814400594/)
 
 
