@@ -5,7 +5,7 @@
 正＃2：「backpropagation（誤差逆伝播法）はモデルの該当部分での関数が微分可能であるという前提で、微分にて得られる勾配に基づいた誤差を上流へ（＝backward；後方へ）伝播する手法です。」<br>
 「```backward()```関数は、ニューラルネットワークでのbackpropagation（誤差逆伝播法）を行うために必要な機能を提供するPyTorchの関数で、backpropagation以外の目的でも利用可能な汎用の関数です。」<br>
 ＃1詳細；<br>
-```backward()```関数は、英語の"backword" ("forward"の対義語）で"backpropagation"よりも一般的、かつ古い英語です。<br>
+英語の"backword" ("forward"の対義語）は"backpropagation"よりも一般的、かつ古い英語です。<br>
 ＃2詳細：<br>
 ```backward()```関数の詳細は下記のマニュアル類を参照してください。<br>
 参照：<br>
