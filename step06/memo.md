@@ -13,4 +13,6 @@
 <a href="https://pytorch.org/tutorials/beginner/blitz/neural_networks_tutorial.html">Pytorch/Neural Networks</a><br>
 <a href="https://qiita.com/windfall/items/073cbb4ffdfab356e495">【PyTorch】自作関数の勾配計算式（backward関数）の書き方①</a><br>
 <a href="https://zenn.dev/hirayuki/articles/bbc0eec8cd816c183408">Pytorchの基礎 forwardとbackwardを理解する</a><br>
-<a href="https://qiita.com/simayan/items/ea8bc5df150f7890d0e7">Pytorchのnn.Transformerのforward関数を理解する</a>
+<a href="https://qiita.com/simayan/items/ea8bc5df150f7890d0e7">Pytorchのnn.Transformerのforward関数を理解する</a><br>
+<a href="https://t-keita.hatenadiary.jp/entry/2021/09/04/145412">PyTorch の自動微分に入門する</a><br>
+<a href="https://oumpy.github.io/blog/2022/02/directional_gradient_optimization.html">方向微分によるニューラルネットワークの勾配近似(大阪大学医学部 Python会)</a><br>
