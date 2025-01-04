@@ -14,8 +14,11 @@
 
 具体的なコード部分：テキストp.168の```torch.randn_like(sigma)```にてzに正規分布する乱数を代入している箇所となります。<br>
 
-参考資料：<br>
+参考：<br>
 <a href="https://qiita.com/kenmatsu4/items/b029d697e9995d93aa24">Variational Autoencoder徹底解説[@kenmatsu4 (まつ けん), 最終更新日 2024年09月03日
 投稿日 2017年07月29日]</a><br>
 <a href="https://deepage.net/deep_learning/2016/10/09/deeplearning_autoencoder.html">オートエンコーダ：抽象的な特徴を自己学習するディープラーニングの人気者[DeepAge, 2016-10-9]</a><br>
 <a href="https://www.ibm.com/jp-ja/topics/autoencoder">オートエンコーダーとは[IBM:Dave Bergmann、Cole Stryker, 2023年11月23日]</a><br>
+
+### [追記]:ChatGPT-4o-mini への問いかけと応答（あくまで参考程度として下さい）
+[https://chatgpt.com/c/67795427-70e8-8005-91b9-fb542f01884d](https://chatgpt.com/share/677954f1-9c9c-8005-b335-bf8234c6850a)
