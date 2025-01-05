@@ -17,6 +17,7 @@
 参考：<br>
 <a href="https://qiita.com/kenmatsu4/items/b029d697e9995d93aa24">Variational Autoencoder徹底解説[@kenmatsu4 (まつ けん), 最終更新日 2024年09月03日
 投稿日 2017年07月29日]</a><br>
+---gif動画によるデモが非常に分かりやすい。デモ作成用のソフトはchainerを使用しているが、最新のバージョンでは動かない（numpy関連でのエラーも出るので、個別環境を作るか、ソフト改変が必要）<br>
 <a href="https://deepage.net/deep_learning/2016/10/09/deeplearning_autoencoder.html">オートエンコーダ：抽象的な特徴を自己学習するディープラーニングの人気者[DeepAge, 2016-10-9]</a><br>
 <a href="https://www.ibm.com/jp-ja/topics/autoencoder">オートエンコーダーとは[IBM:Dave Bergmann、Cole Stryker, 2023年11月23日]</a><br>
 
